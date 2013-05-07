@@ -1,0 +1,13 @@
+int main(){
+  int a;
+  int b;
+  a=3;
+  b=4;
+  if(a>b):{
+     while(a>3):{
+          println(a);
+      };
+      scanner(b);
+  };
+scanner(a);
+}

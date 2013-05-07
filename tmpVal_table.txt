@@ -1,0 +1,6 @@
+0    3     int
+1    4     int
+2    3     int
+3    3     int
+4    4     int
+5    3     int

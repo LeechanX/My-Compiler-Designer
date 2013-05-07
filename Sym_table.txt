@@ -1,0 +1,3 @@
+名字       类型      值      位置
+a         int       null       0
+b         int       null       4
